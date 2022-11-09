@@ -1,0 +1,32 @@
+.top-box{
+    width: 100%;
+    height: 200px;
+    background-color: #12cf61;
+    margin-bottom: 10px;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.container .box:nth-child(1){
+    background-color: #f4eb49;
+    width: 300px;
+}
+
+.box{
+    height: 150px;
+}
+
+.bg-orange{
+    background-color: #ff6320;
+    width: 100%;
+    margin-left: 10px;
+}
+
+.bg-blue{
+    background-color: #5b89d3;
+    width: 100%;
+    margin-left: 10px;
+}
